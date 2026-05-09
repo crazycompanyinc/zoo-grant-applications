@@ -1,0 +1,9 @@
+# ZOO Funding Configuration
+github: [crazycompanyinc]
+open_collective: # Add when created
+patreon: # Add when created
+ko_fi: # Add when created
+custom:
+  - https://github.com/crazycompanyinc/zoo-funding
+  - https://github.com/crazycompanyinc/zoo-sponsors
+  - https://github.com/crazycompanyinc/zoo-grant-applications
